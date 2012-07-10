@@ -1,0 +1,7 @@
+.buildpath
+.project
+.settings
+.pydevproject
+*.swp
+/config
+*.swp
